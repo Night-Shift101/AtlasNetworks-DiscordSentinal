@@ -1,0 +1,30 @@
+{
+  "departments": [
+    {
+      "id": "TEST",
+      "name": "Test",
+      "color": "#000000",
+      "hierarchy": [
+        "1368094427922301019",
+        "1368094433685405788",
+        "1324825828130951279",
+        "1344515873389543466",
+        "1343749153036963900",
+        "1363744995579920434"
+      ],
+      "roles": [],
+      "subDepartments": [],
+      "isSubDepartment": false
+    },
+    {
+      "id": "TEST2",
+      "name": "Test2",
+      "color": "#000000",
+      "hierarchy": [],
+      "roles": [],
+      "subDepartments": [],
+      "isSubDepartment": true,
+      "parent": "TEST"
+    }
+  ]
+}

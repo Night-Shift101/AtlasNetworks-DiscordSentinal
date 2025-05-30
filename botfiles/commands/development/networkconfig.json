@@ -1,0 +1,26 @@
+{
+    "networkGuilds": [
+        "1323763034488963143",
+        "1329956511375687842",
+        "1324474489593139261",
+        "1324474440557531247",
+        "1324474193210904718",
+        "1324474368960626842",
+        "1324474317228216536",
+        "1324474135002484738",
+        "1324473700623454219",
+        "1324473624052109322"
+    ],
+    "departmentRoles": {
+        "San Andreas Fire Department": "SAFD",
+        "Blaine County Sheriff's Office": "BCSO",
+        "Los Santos Police Department": "LSPD",
+        "San Andreas State Troopers": "SAST",
+        "San Andreas National Guard": "SANG",
+        "Federal Bureau of Investigation": "FBI",
+        "United States Secret Service": "USSS",
+        "Department of Justice": "DOJ",
+        "Atlas Network Staff": "Staff",  
+        "Atlas Network Development": "Development"  
+    }
+}
